@@ -1,0 +1,1 @@
+{"name":"campus-split","version":"1.0.0","private":true,"description":"Campus expense splitter with graph-based settlement optimization","scripts":{"start":"node server/index.js","dev":"node --watch server/index.js","test":"node --test tests/*.test.js"},"engines":{"node":">=20"}}
